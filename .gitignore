@@ -1,0 +1,4 @@
+.DS_Store
+build
+release
+.rake_t_cache
